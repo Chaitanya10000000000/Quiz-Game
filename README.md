@@ -1,33 +1,40 @@
-# 🧠 Quiz Game
+🧠 Quiz Game
 
-A simple and fun browser-based **Quiz Game** built using HTML, CSS, and JavaScript. Challenge yourself with multiple choice questions and see how high you can score!
+A simple and fun browser-based **Quiz Game** built using HTML, CSS, and JavaScript.
+Challenge yourself with multiple choice questions and see how high you can score!
 
-## 🌟 Features
+🌟 Features
 
 - 📝 Multiple choice quiz questions
-- ⏱️ Countdown timer for each question
 - ✅ Instant feedback on answers
 - 🧮 Score tracking at the end of the quiz
-- 🎨 Clean, responsive UI
 
-## 🚀 Live Demo
+🚀 Live Demo
 
-👉 [Play the Quiz Game](https://your-github-username.github.io/quiz-game/)  
-*(Replace with your actual GitHub Pages link if hosted)*
+👉 [Play the Quiz Game](https://chaitanya10000000000.github.io/Quiz-Game/)  
 
-## 📸 Screenshots
+📸 Screenshots
 
-*(Insert images or gifs showing gameplay here)*
+[Quiz-Game] (Screenshot 2025-04-18 175707)
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - **HTML5** - Markup structure
 - **CSS3** - Styling and layout
 - **JavaScript** - Game logic and interactivity
 
-## 📦 How to Run Locally
+🧪 How to Play
 
-1. **Clone the repository**
+- Click the Start Quiz button.
+- Answer each question before the timer runs out.
+- Get your score at the end and try to beat it again! 
 
-```bash
-git clone https://github.com/your-username/quiz-game.git
+🙌 Contributing
+
+Contributions are welcome!
+If you have suggestions or improvements, feel free to fork the repo and create a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
+
