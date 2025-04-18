@@ -15,8 +15,6 @@ Challenge yourself with multiple choice questions and see how high you can score
 
 📸 Screenshots
 
-[Quiz-Game] 
-
 ![Screenshot 2025-04-18 175707](https://github.com/user-attachments/assets/e8298456-84ce-4006-aea0-9256c068872a)
 
 
